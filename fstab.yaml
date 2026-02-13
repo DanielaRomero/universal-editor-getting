@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p117752-e1147566.adobeaemcloud.com/bin/franklin.delivery/danielaromero/universal-editor-getting-started/main"
+    url: "https://author-p117752-e1147566.adobeaemcloud.com/bin/franklin.delivery/danielaromero/universal-editor-getting/main"
     type: "markup"
     suffix: ".html"
